@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The name of the wind",
+    "date":"2000-04-23T18:25:43.511Z",
+    "rating": 10,
+    "awarded": true,
+    "author": "Patrick Rothfuss",
+    "id": "1"
+  },
+  {
+    "title": "El ocho",
+    "date":"2000-04-23T18:25:43.511Z",
+    "rating": 7,
+    "awarded": false,
+    "author": "Patricio",
+    "id": "2"
+  },
+  {
+    "title": "Caperucita y el lobo",
+    "date":"2000-04-23T18:25:43.511Z",
+    "rating": 9,
+    "awarded": false,
+    "author": "Hermanos Grimm",
+    "id": "3"
+  }
+]
